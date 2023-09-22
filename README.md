@@ -14,7 +14,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://dev.to/adityach0uhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityach0uhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adityach0uhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityach0uhan" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityach0uhan) 
 <a href="https://www.hackerrank.com/adityach0uhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityach0uhan" height="30" width="40" /></a>
 </p> 
 
