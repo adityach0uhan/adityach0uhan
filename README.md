@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **It is hard for me to say no!**
 
-
+# 💬 Socials:
 <div align="center">
     <a href="https://www.linkedin.com/in/aditya-singh-chauhan-1a6734249" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -31,16 +31,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityach0uhan&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityach0uhan&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adityach0uhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
+
 [![](https://visitcount.itsvg.in/api?id=adityach0uhan&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
