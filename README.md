@@ -6,13 +6,11 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A novice Web Developer eager to learn and create projects and stuff!!</h3>
 
-- 🌱 I’m currently learning **ReactJs , NextJs**
-
-- 💬 Ask me about **react**
+- 🌱 I’m currently learning **ReactJs , NextJs **
 
 - 📫 How to reach me **m4with6x@gmail.com**
 
-- ⚡ Fun fact **It is hard for me to say no!**
+- Self learner , i prefer projects over tutorials   
 
 # 💬 Socials:
 <div align="center">
