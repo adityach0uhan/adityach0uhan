@@ -30,8 +30,7 @@
 <a href="https://github.com/adityach0uhan">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityach0uhan&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityach0uhan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityach0uhan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityach0uhan&theme=highcontrast" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityach0uhan&theme=highcontrast" height="180em" />
 </div>
 
