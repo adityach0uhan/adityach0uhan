@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs , NextJs **
 
-- 🔭 I’m currently working on [Digital Electronics Calculator]  (https://digitalcalc-alpha.vercel.app/)
+- 🔭 I’m currently working on websocket projects
 
 - 📫 How to reach me **m4with6x@gmail.com**
 
