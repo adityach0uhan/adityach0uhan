@@ -3,7 +3,10 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A novice Web Developer eager to learn and create projects !</h3>
 
-- 🌱 I’m currently learning ReactJs , NextJs , Socket.io  
+
+- 🌱 I’m currently learning ReactJs , NextJs , Socket.io
+  
+- CSE , Btech 3rd Year Student @BIT Durg
 
 - 📫 How to reach me **m4with6x@gmail.com**
 
