@@ -5,6 +5,8 @@
 
 
 - 🌱 I’m currently learning ReactJs , NextJs , Socket.io
+
+- CSE , 3 year Diploma from @GPKGH
   
 - CSE , Btech 3rd Year Student @BIT Durg
 
