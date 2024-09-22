@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A novice Web Developer eager to learn and create projects and stuff!!</h3>
+<h3 align="center">A novice Web Developer eager to learn and create projects !</h3>
 
-- 🌱 I’m currently learning **ReactJs , NextJs **
+- 🌱 I’m currently learning ReactJs , NextJs , Socket.io  
 
 - 📫 How to reach me **m4with6x@gmail.com**
 
