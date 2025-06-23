@@ -4,15 +4,14 @@
 <h3 align="center">A novice Web Developer eager to learn and create projects !</h3>
 
 
-- 🌱 I’m currently learning ReactJs , NextJs , Socket.io
+- 🌱 I’m currently leading a team of 4 developer to create a market ready product 
 
-- CSE , 3 year Diploma from @GPKGH
+- CSE ,Completed 3 year Diploma from @GPKGH
   
-- CSE , Btech 3rd Year Student @BIT Durg
+- CSE , Btech 4th Year Student @BIT Durg
 
 - 📫 How to reach me **m4with6x@gmail.com**
 
-- Self learner .  
 
 # 💬 Socials:
 <div align="center">
